@@ -1,4 +1,5 @@
 Patika+ eğitimi kasamında oluşturulmuş duyarlı Sport Center web sitesi.
+canlı hali => https://main--bespoke-moxie-8d8ae7.netlify.app/#
 ![1](img/1.PNG)
 ![2](img/2.PNG)
 ![3](img/3.PNG)
